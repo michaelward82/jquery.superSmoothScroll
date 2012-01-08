@@ -4,6 +4,8 @@
 
 (function ($) {
   $.fn.superSmoothScroll = function () {
-    
+    return this.each(function () {
+
+    });
   };
 }(jQuery));
