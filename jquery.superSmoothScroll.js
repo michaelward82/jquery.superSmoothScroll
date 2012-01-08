@@ -1,3 +1,5 @@
-jQuery.fn.superSmoothScroll = function() {
-	
-};
+(function( $ ) {
+  $.fn.superSmoothScroll = function() {
+  	
+  };
+})( jQuery );
